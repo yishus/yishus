@@ -1,1 +1,1 @@
-A language apprentice.
+Blank.
